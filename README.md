@@ -1,4 +1,8 @@
 Software Engineering Master Topics
 ====================================
 
-Collection and discussion of papers that we think should be used by students as a basis for their SE master project, replication style.
+Here we discuss the topics suitable for research-oriented students that have potential for scientific impact.
+The assumed style is replication of a study that is described in a great paper that was recently published.
+
+The intent here is not to replace the Thesis Fair website, which is still our front-end for students and organisations, and our tool to manage the Thesis Fair event.
+
